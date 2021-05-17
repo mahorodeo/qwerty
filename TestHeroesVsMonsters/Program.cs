@@ -9,6 +9,7 @@ namespace TestHeroesVsMonsters
 {
     class Program
     {
+        // Deogratias modification
         static void Main(string[] args)
         {
             int choix;
