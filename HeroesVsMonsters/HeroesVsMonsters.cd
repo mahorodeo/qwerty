@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="HeroesVsMonsters.De">
+    <Position X="12.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAACAAAAAAAAAAAAIAAAAAgAAAQAACAAAAAAAAAA=</HashCode>
+      <FileName>De.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HeroesVsMonsters.Dragonnet">
+    <Position X="4" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAEAAAAAAAEAAAAAAAAAAAAAAAAAAgAAAAAAEAgAA=</HashCode>
+      <FileName>Dragonnet.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HeroesVsMonsters.Foret">
+    <Position X="12.75" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAhABAAAgADAIAAAYAFAAgAAAAAAhAAAAACAAAg=</HashCode>
+      <FileName>Foret.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HeroesVsMonsters.Hero">
+    <Position X="7.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAEAAAAAAAAAAACAAAAIAgAAAAAAAAgAA=</HashCode>
+      <FileName>Hero.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HeroesVsMonsters.Humain">
+    <Position X="8.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Humain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HeroesVsMonsters.Loup">
+    <Position X="7.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAgAA=</HashCode>
+      <FileName>Loup.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HeroesVsMonsters.Monster">
+    <Position X="5.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Monster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HeroesVsMonsters.Nain">
+    <Position X="10.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Nain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HeroesVsMonsters.Orque">
+    <Position X="5.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAIAAAAAAgAAAAAAEAAAA=</HashCode>
+      <FileName>Orque.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HeroesVsMonsters.Personnage">
+    <Position X="1" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAACgIAAAhACBBIAAAAAAIAQIAABAAACQAAEAYAA=</HashCode>
+      <FileName>Personnage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="HeroesVsMonsters.ICuir">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ICuir.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HeroesVsMonsters.IOr">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>IOr.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
