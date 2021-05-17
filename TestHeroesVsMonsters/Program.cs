@@ -23,6 +23,7 @@ namespace TestHeroesVsMonsters
             f.Lance();
 
             Console.ReadLine();
+            Console.WriteLine("Test of a pull request");
         }
     }
 }
